@@ -7,4 +7,4 @@ CLCXray can be downloaded from https://github.com/GreysonPhoenix/CLCXray.git
 
 DVXray can be downloaded from https://github.com/Mbwslib/DvXray
 
-The code comming soon.
+The code is forthcoming.
